@@ -3,11 +3,11 @@
 Simply put, I'm drawn to Computer Science because of its ever changing nature and power to shape our future. <br> <br>
 🔭 I’m currently in: 3rd year <br>
 🌱 I am interested in: software development, AI/ML, and learning more! <br>
+💬 Feel free to reach out, I am always up for a chat :) <br>
 📫 How to reach me: mrinal_goshalia@sfu.ca <br>
 ⚡ Fun fact: I once named my Wi-Fi network "404 Network Not Found" to prank my neighbors. <br>
 😄 Pronouns: She/her <br>
 <br>
- 💬 Feel free to reach out, I am always up for a chat :) <br>
 Take a look at my projects!
 
 

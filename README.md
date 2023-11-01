@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there I'm Mrinal 👋
+
+Simply put, I'm fell in love with Computer Science because of its incredible power to shape our future. <br>
+🔭 I’m currently working in: 3rd year <br>
+🌱 I am interested in: programming, AI/ML, and learning more! <br>
+📫 How to reach me: mrinal_goshalia@sfu.ca <br>
+⚡ Fun fact: I once named my Wi-Fi network "404 Network Not Found" to prank my neighbors. <br>
+😄 Pronouns: She/her <br>
+
+Take a look at my projects
+
 
 <!--
 **mga113/mga113** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

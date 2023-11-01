@@ -7,7 +7,7 @@ Simply put, I'm fell in love with Computer Science because of its incredible pow
 ⚡ Fun fact: I once named my Wi-Fi network "404 Network Not Found" to prank my neighbors. <br>
 😄 Pronouns: She/her <br>
 <br>
-Take a look at my projects
+Take a look at my projects :)
 
 
 <!--

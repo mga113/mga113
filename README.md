@@ -1,6 +1,6 @@
 ### Hi there I'm Mrinal 👋
 
-Simply put, I'm fell in love with Computer Science because of its incredible power to shape our future. <br> <br>
+Simply put, I'm drawn to Computer Science because of its everchanging nature and power to shape our future. <br> <br>
 🔭 I’m currently working in: 3rd year <br>
 🌱 I am interested in: programming, AI/ML, and learning more! <br>
 📫 How to reach me: mrinal_goshalia@sfu.ca <br>

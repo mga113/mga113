@@ -7,7 +7,8 @@ Simply put, I'm drawn to Computer Science because of its ever changing nature an
 ⚡ Fun fact: I once named my Wi-Fi network "404 Network Not Found" to prank my neighbors. <br>
 😄 Pronouns: She/her <br>
 <br>
-Take a look at my projects :)
+Feel free to reach out, I am always up for a chat :) <br>
+Take a look at my projects
 
 
 <!--

@@ -1,7 +1,7 @@
 ### Hi there I'm Mrinal 👋
 
 Simply put, I'm drawn to Computer Science because of its ever changing nature and power to shape our future. <br> <br>
-🔭 I’m currently working in: 3rd year <br>
+🔭 I’m currently in: 3rd year <br>
 🌱 I am interested in: software development, AI/ML, and learning more! <br>
 📫 How to reach me: mrinal_goshalia@sfu.ca <br>
 ⚡ Fun fact: I once named my Wi-Fi network "404 Network Not Found" to prank my neighbors. <br>

@@ -1,6 +1,6 @@
 ### Hi there I'm Mrinal 👋
 
-Simply put, I'm drawn to Computer Science because of its ever changing nature and power to shape our future. <br> <br>
+Simply put, I got roped into computer science by watching the social network a few too many time and am really enjoying what I'm learning. <br> <br>
 🔭 I’m currently in: 3rd year <br>
 🌱 I am interested in: software development, AI/ML, and learning more! <br>
 💬 Feel free to reach out, I am always up for a chat :) <br>

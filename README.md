@@ -5,7 +5,6 @@ Simply put, I got roped into computer science by watching the social network a f
 🌱 I am interested in: software development, AI/ML, and learning more! <br>
 💬 Feel free to reach out, I am always up for a chat :) <br>
 📫 How to reach me: mrinal_goshalia@sfu.ca <br>
-⚡ Fun fact: I once named my Wi-Fi network "404 Network Not Found" to prank my neighbors. <br>
 😄 Pronouns: She/her <br>
 <br>
 Take a look at my projects!

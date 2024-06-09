@@ -1,6 +1,5 @@
 ### Hi there I'm Mrinal 👋
 
-<br>
 🔭 I’m currently in: 3rd year <br>
 🌱 I am interested in: software development, AI/ML, and learning more! <br>
 💬 Feel free to reach out, I am always up for a chat :) <br>

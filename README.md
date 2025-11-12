@@ -4,7 +4,6 @@
 🌱 I am interested in: software development, AI/ML, and learning more! <br>
 💬 Feel free to reach out, I am always up for a chat :) <br>
 📫 How to reach me: mrinal_goshalia@sfu.ca <br>
-😄 Pronouns: She/her <br>
 <br>
 Take a look at my projects!
 
